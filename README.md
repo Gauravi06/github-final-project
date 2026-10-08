@@ -14,5 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+Typo corrected: annual interest rate.
 
-Typo correction: annual interest rate.
